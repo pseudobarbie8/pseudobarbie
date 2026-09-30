@@ -21,7 +21,7 @@
 class pseudobarbie:
     role     = "AI Engineer & Founder"
     org      = "@Dokist-ai"
-    focus    = ["RAG", "LLM Agents", "Legal/Financial NLP"]
+    focus    = ["RAG", "LLM Agents", "Legal/Financial NLP", "LegalTech", "Fintech"]
     stack    = ["PyTorch", "LangChain", "FastAPI", "Docker"]
     mission  = "Making documents less tedious"
     side     = "github.com/pseudobarbie/side-quests"
